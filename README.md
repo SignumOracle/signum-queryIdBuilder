@@ -38,9 +38,9 @@
     This application helps users generate query ids for the Signum ecosystem. Many reporting types are supported, such as Legacy, SpotPrice, AWSSpotPrice, Diva Protocol, LeagueDAO and Custom. Visit the Usage section for some examples.
     <br />
     <br />
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilderissues">Report Bug</a>
+    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilderissues">Request Feature</a>
+    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/issues">Request Feature</a>
   </p>
 </p>
 
