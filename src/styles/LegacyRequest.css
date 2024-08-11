@@ -1,0 +1,59 @@
+.CreateNewLegacyRequestContainer {
+  margin-top: 50px;
+  display: flex;
+}
+.CreateNewLegacyRequestContainer {
+  margin-top: 50px;
+  display: flex;
+}
+.LegacyRequestHeroContainer {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+}
+.LegacyRequestHero {
+  max-width: 100%;
+  box-sizing: border-box;
+  width: 100%;
+  height: -moz-fit-content;
+  height: fit-content;
+  border-left: 2px solid #ffffff;
+  padding: 8px;
+  padding-left: 20px;
+}
+.LegacyRequestJSON {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 15px;
+  font-weight: 300;
+  width: fit-content;
+}
+.LegacyRequestJSON > p > span {
+  font-weight: 700;
+}
+.LegacyRequestInput {
+  font-family: 'Inconsolata';
+  font-size: 16px;
+  font-weight: 300;
+  width: 45px;
+  height: 22px;
+  padding-left: 5px;
+  padding-top: 2px;
+  border: none;
+  background-color: rgba(251, 197, 27, 0.2);
+  border-bottom: 2px solid #fbc51b;
+  color: #ffffff;
+  caret-color: #ffffff;
+}
+.LegacyRequestInput:focus {
+  outline-color: #fbc51b;
+  outline-width: 1px;
+}
+.LegacyRequestResults {
+  max-width: 90%;
+  box-sizing: border-box;
+  height: fit-content;
+  border: 2px solid #ffffff;
+  padding: 12px 12px 0px 20px;
+  margin-top: 30px;
+}

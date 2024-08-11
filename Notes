@@ -1,0 +1,5 @@
+1. [ ] Make sure what I'm outputting is the same as what's in the dataSpecs 
+    - Ohm/usd feed?
+2. [ ] Go to here for understanding how to hash dynamic "Bob" query later: https://hackmd.io/@heavychain/Sk5_H06aY
+3. [ ] Go to here for understanding how to hash SpotPrice properly: https://github.com/tellor-io/dataSpecs/blob/main/types/SpotPrice.md
+4. [ ] Talk to Will about implementing some type of warning for proper "type" entries.

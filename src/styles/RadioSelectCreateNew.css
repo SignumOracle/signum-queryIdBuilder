@@ -1,0 +1,37 @@
+.RadioSelectCreateNew {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-width: fit-content;
+  height: 150px;
+  margin-right: 22px;
+}
+.SelectionCreateNew {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+.RadioButtonCreateNew {
+  border: 1px solid #ffffff;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.RadioButtonCreateNewInner {
+  display: none;
+  width: 8px;
+  height: 8px;
+  background-color: #fbc51b;
+  border-radius: 50%;
+}
+
+/* createNew DISPLAY */
+.createNewDisplay {
+  display: flex;
+}

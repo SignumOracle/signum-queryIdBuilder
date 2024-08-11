@@ -1,0 +1,90 @@
+.SelectFeedContainer {
+  margin-top: 50px;
+  display: flex;
+}
+.RadioSelect {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 12.5%;
+  margin-right: 20px;
+}
+.Selection {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.Selection:hover {
+  cursor: pointer;
+}
+.Selection > span {
+  font-weight: 300;
+}
+.SelectionVisible {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.2s linear;
+}
+.SelectionHidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 0.2s, opacity 0.2s linear;
+}
+.RadioButton {
+  border: 1px solid #ffffff;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.RadioButtonInner {
+  display: none;
+  width: 8px;
+  height: 8px;
+  background-color: #fbc51b;
+  border-radius: 50%;
+}
+.SelectFeedResults {
+  max-width: 75%;
+  box-sizing: border-box;
+  width: 100%;
+  height: fit-content;
+  border: 2px solid #ffffff;
+  padding: 12px;
+  padding-bottom: 0px;
+}
+.ResultTitle {
+  display: flex;
+}
+.ResultTitle > p {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom: 3px;
+}
+.CopyToClipboardIcon:hover {
+  cursor: pointer;
+  transform: scale(1.15);
+  -webkit-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+.Copied {
+  display: none;
+  color: #fbc51b;
+}
+.ResultContent {
+  padding: 2px 0px 16px 0px;
+  overflow-wrap: break-word;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 16px;
+  overflow-wrap: break-word;
+}
+
+/* DISPLAY/HIDE */
+.display {
+  display: flex;
+}

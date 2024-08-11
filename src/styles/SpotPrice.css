@@ -1,0 +1,56 @@
+.CreateNewSpotPriceContainer {
+  margin-top: 50px;
+  display: flex;
+}
+.SpotPriceHeroContainer {
+  display: flex;
+  flex-direction: column;
+  width: 72%;
+}
+.SpotPriceHero {
+  max-width: 100%;
+  box-sizing: border-box;
+  width: 100%;
+  height: -moz-fit-content;
+  height: fit-content;
+  border-left: 2px solid #ffffff;
+  padding: 8px;
+  padding-left: 20px;
+}
+.SpotPriceJSON {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 15px;
+  font-weight: 300;
+  width: fit-content;
+}
+.SpotPriceJSON > p > span {
+  font-weight: 700;
+}
+.SpotPriceInput {
+  font-family: 'Inconsolata';
+  font-size: 16px;
+  font-weight: 300;
+  width: 45px;
+  height: 22px;
+  padding-left: 5px;
+  padding-top: 2px;
+  border: none;
+  background-color: rgba(251, 197, 27, 0.2);
+  border-bottom: 2px solid #fbc51b;
+  color: #ffffff;
+  caret-color: #ffffff;
+}
+.SpotPriceInput:focus {
+  outline-color: #fbc51b;
+  outline-width: 1px;
+}
+.SpotPriceResults {
+  max-width: 75%;
+  box-sizing: border-box;
+  width: 100%;
+  height: fit-content;
+  border: 2px solid #ffffff;
+  padding: 12px 12px 0px 20px;
+  margin-top: 30px;
+}
