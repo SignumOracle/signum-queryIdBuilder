@@ -10,8 +10,6 @@
 *** github_username, repo_name, twitter_handle, email, project_title, project_description
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -20,12 +18,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -45,8 +43,6 @@
     <a href="https://github.com/tellor-io/queryIdBuilder/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -74,36 +70,36 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][screenshot]](https://github.com/tellor-io/queryIdBuilder)
 
 ### Built With
 
-* [React](https://reactjs.org/)
-* [web3](https://web3js.readthedocs.io/en/v1.7.3/)
-* [ethers.js](https://docs.ethers.io/v5/)
-* [jazzicon-react](https://www.npmjs.com/package/@ukstv/jazzicon-react)
-* [Material UI](https://mui.com/material-ui/getting-started/installation/)
+- [React](https://reactjs.org/)
+- [web3](https://web3js.readthedocs.io/en/v1.7.3/)
+- [ethers.js](https://docs.ethers.io/v5/)
+- [jazzicon-react](https://www.npmjs.com/package/@ukstv/jazzicon-react)
+- [Material UI](https://mui.com/material-ui/getting-started/installation/)
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* This app requires node version **17.2.0** in order to run.
-* We suggest installing nvm globally
+- This app requires node version **17.2.0** in order to run.
+- We suggest installing nvm globally
   ```sh
   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
   ```
-* Check nvm version after install
+- Check nvm version after install
   ```sh
-  nvm -v 
+  nvm -v
   ```
   Ex:
   ```sh
@@ -133,8 +129,8 @@ To get a local copy up and running follow these simple steps.
    npm start
    ```
 
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Examples:
@@ -146,11 +142,13 @@ Examples:
 </div>
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 See the [open issues](https://github.com/tellor-io/queryIdBuilder/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -162,15 +160,18 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
+
 ## Contact
 
-Tellor.io 
-- [Documentation](https://docs.tellor.io/tellor/)
+Tellor.io
+
+- [Documentation](https://docs.signum.win/signum/)
 - [Twitter](https://twitter.com/WeAreTellor)
 - [Discord](https://discord.gg/NP7fmzr5)
 - [GitHub](https://github.com/tellor-io)
@@ -180,10 +181,11 @@ Tellor.io
 
 ## Acknowledgements
 
-* [README Acknowledgement](https://github.com/othneildrew/Best-README-Template)
+- [README Acknowledgement](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/tellor-io/queryIdBuilder.svg?style=for-the-badge
 [contributors-url]: https://github.com/tellor-io/queryIdBuilder/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/tellor-io/queryIdBuilder.svg?style=for-the-badge
