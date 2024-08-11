@@ -127,18 +127,6 @@ To get a local copy up and running follow these simple steps.
    npm start
    ```
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Examples:
-
-<div>
-  <img src="https://user-images.githubusercontent.com/21370350/165885987-9f2db185-d116-4221-871a-4138a178a055.png" alt="Project example" width="30%" height="100%">
-  <img src="https://user-images.githubusercontent.com/21370350/165886026-e4f737ac-690f-4289-ba22-a13a41951ba5.png" alt="Project example" width="30%" height="100%">
-  <img src="https://user-images.githubusercontent.com/21370350/165886055-129286f3-7ae7-4b18-ab13-eea6bb859ae2.png" alt="Project example" width="30%" height="100%">
-</div>
-
 <!-- ROADMAP -->
 
 ## Roadmap
