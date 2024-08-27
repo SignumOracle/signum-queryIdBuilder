@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import './App.css'
-import TellorLogo from './assets/signum_logo.svg'
+import TellorLogo from './assets/signum_logo.png'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import SelectFeed from './components/SelectFeed'
 import CustomFeed from './components/CustomFeed'
@@ -35,7 +35,7 @@ function App() {
     <div className="App">
       <nav className="Nav">
         <a href="https://signum.win/">
-          <img src={TellorLogo} alt="TellorLogo" />
+          <img src={TellorLogo} style={{width: "100px"}} alt="TellorLogo" />
         </a>
       </nav>
       <div className="BodyContainer">
