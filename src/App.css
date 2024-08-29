@@ -13,11 +13,12 @@
   overflow-x: auto;
 }
 .Nav {
-  width: 100%;
+  width: 95%;
   margin: 3%;
   padding-left: 3%;
   display: flex;
   box-sizing: border-box;
+  justify-content: space-between;
 }
 .Nav > a > img {
   width: 50px;

@@ -37,6 +37,7 @@ function App() {
         <a href="https://signum.win/">
           <img src={TellorLogo} style={{width: "50px"}} alt="TellorLogo" />
         </a>
+        <p style={{ color: "#fbc51b", textDecoration: "underline" }}>TEST NETWORK</p>
       </nav>
       <div className="BodyContainer">
         <h1 className="BodyHeader">Query ID Station</h1>
