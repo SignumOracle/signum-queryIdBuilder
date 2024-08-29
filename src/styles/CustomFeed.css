@@ -29,7 +29,7 @@
   font-weight: 700;
 }
 .CustomInput {
-  font-family: 'Inconsolata';
+  font-family: 'Poppins Light';
   font-size: 16px;
   font-weight: 300;
   width: 170px;
@@ -69,7 +69,7 @@
   display: flex;
 }
 .DynamicFormDropdown {
-  font-family: 'Inconsolata';
+  font-family: 'Poppins Light';
   font-size: 16px;
   font-weight: 300;
   width: fit-content;
@@ -93,7 +93,7 @@
   width: 173px;
 }
 .DynamicFormInput {
-  font-family: 'Inconsolata';
+  font-family: 'Poppins Light';
   font-size: 16px;
   font-weight: 300;
   width: fit-content;

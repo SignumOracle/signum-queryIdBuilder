@@ -11,7 +11,7 @@ export const CustomTooltip = styled(({ className, ...props }) => (
   [`& .${tooltipClasses.tooltip}`]: {
     backgroundColor: 'rgba(0, 0, 0, 0.7)',
     fontSize: '14px',
-    fontFamily: 'Inconsolata',
+    fontFamily: 'Poppins Light',
     color: '#fbc51b',
   },
 }))
