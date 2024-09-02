@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder">
+  <a href="https://github.com/SignumOracle/signum-queryIdBuilder">
     <img src="/public/favicon.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,9 +38,9 @@
     This application helps users generate query ids for the Signum ecosystem. Many reporting types are supported, such as Legacy, SpotPrice, AWSSpotPrice, Diva Protocol, LeagueDAO and Custom. Visit the Usage section for some examples.
     <br />
     <br />
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/issues">Report Bug</a>
+    <a href="https://github.com/SignumOracle/signum-queryIdBuilder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/issues">Request Feature</a>
+    <a href="https://github.com/SignumOracle/signum-queryIdBuilder/issues">Request Feature</a>
   </p>
 </p>
 
@@ -108,7 +108,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo in your preferred directory
    ```sh
-   git clone https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder.git
+   git clone https://github.com/SignumOracle/signum-queryIdBuilder.git
    ```
 2. Install NPM packages
    ```sh
@@ -131,7 +131,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SignumOracle/signum-queryIdBuilder/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -168,14 +168,14 @@ Signum.win
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/tellor-io/queryIdBuilder.svg?style=for-the-badge
-[contributors-url]: https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tellor-io/queryIdBuilder.svg?style=for-the-badge
-[forks-url]: https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/network/members
-[stars-shield]: https://img.shields.io/github/stars/tellor-io/queryIdBuilder.svg?style=for-the-badge
-[stars-url]: https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tellor-io/queryIdBuilder.svg?style=for-the-badge
-[issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/issues
-[license-shield]: https://img.shields.io/github/license/tellor-io/queryIdBuilder.svg?style=for-the-badge
-[license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-queryIdBuilder/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[contributors-url]: https://github.com/SignumOracle/signum-queryIdBuilder/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[forks-url]: https://github.com/SignumOracle/signum-queryIdBuilder/network/members
+[stars-shield]: https://img.shields.io/github/stars/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[stars-url]: https://github.com/SignumOracle/signum-queryIdBuilder/stargazers
+[issues-shield]: https://img.shields.io/github/issues/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[issues-url]: https://github.com/SignumOracle/signum-queryIdBuilder/issues
+[license-shield]: https://img.shields.io/github/license/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[license-url]: https://github.com/SignumOracle/signum-queryIdBuilder/blob/main/LICENSE.txt
 [screenshot]: https://user-images.githubusercontent.com/21370350/165885865-40afec40-8475-4dde-865b-0b2ff79b512d.png
