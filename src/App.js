@@ -47,7 +47,7 @@ function App() {
           a more detailed explanation of queries, see {' '}
           <a
             className="DescriptionLink"
-            href="https://github.com/AvantgardeBlockchainSolutions/signum-dataSpecs"
+            href="https://github.com/SignumOracle/signum-dataSpecs"
             target="_blank"
             rel="noopener noreferrer"
           >
