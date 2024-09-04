@@ -170,12 +170,12 @@ Signum.win
 
 [contributors-shield]: https://img.shields.io/github/contributors/signumoracle/queryIdBuilder.svg?style=for-the-badge
 [contributors-url]: https://github.com/SignumOracle/signum-queryIdBuilder/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/SignumOracle/queryIdBuilder.svg?style=for-the-badge
 [forks-url]: https://github.com/SignumOracle/signum-queryIdBuilder/network/members
-[stars-shield]: https://img.shields.io/github/stars/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/SignumOracle/queryIdBuilder.svg?style=for-the-badge
 [stars-url]: https://github.com/SignumOracle/signum-queryIdBuilder/stargazers
-[issues-shield]: https://img.shields.io/github/issues/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/SignumOracle/queryIdBuilder.svg?style=for-the-badge
 [issues-url]: https://github.com/SignumOracle/signum-queryIdBuilder/issues
-[license-shield]: https://img.shields.io/github/license/signumoracle/queryIdBuilder.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/SignumOracle/queryIdBuilder.svg?style=for-the-badge
 [license-url]: https://github.com/SignumOracle/signum-queryIdBuilder/blob/main/LICENSE.txt
 [screenshot]: https://user-images.githubusercontent.com/21370350/165885865-40afec40-8475-4dde-865b-0b2ff79b512d.png
